@@ -4,6 +4,8 @@ This is a repository CRUD api, where you can create, update and delete repos, as
 
 As a challenge it was proposed to make the necessary code changes to make tests pass.
 
+It is always is challenging debug someone's code and a good way to stay sharp
+
 ### Develop
 
 `yarn dev`
